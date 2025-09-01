@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Hrishikesh!<br><br>I'm a passionate Embedded Systems Engineer with expertise in RISC-V, FPGA, and hardware-software co-design, driven to solve real-world challenges through innovative embedded solutions. My experience spans industrial applications at Infineon, academic research at Uni Siegen, and hands-on PCB/sensor integration—always with a focus on efficiency, reliability, and cutting-edge technology.<br><br>Beyond engineering, I enjoy learning German (currently B1), playing chess, and hiking—balancing technical rigor with creative problem-solving and outdoor exploration.<br><br>Let’s connect if you’re interested in collaborating on embedded systems, machine learning for sensor data, or open-source hardware projects!</p>
+<p align="left">Hi, I'm Hrishikesh!<br><br>I'm a passionate Embedded Systems Engineer with interest in RISC-V, FPGA, and hardware-software co-design, driven to solve real-world challenges through innovative embedded solutions. My experience spans industrial applications at Infineon, academic research at Uni Siegen, and hands-on PCB/sensor integration—always with a focus on efficiency, reliability, and cutting-edge technology.<br><br>Beyond engineering, I enjoy learning German (currently B1), playing chess, and hiking—balancing technical rigor with creative problem-solving and outdoor exploration.<br><br>Let’s connect if you’re interested in collaborating on embedded systems, machine learning for sensor data, or open-source hardware projects!</p>
 
 ###
 
