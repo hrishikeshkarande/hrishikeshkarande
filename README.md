@@ -1,22 +1,23 @@
-<p align="center">About Me!</p>
+<h1 align="center">About Me!</h1>
 
 ###
 
-<p align="left">Hi, I'm Hrishikesh!<br><br>I'm a passionate Embedded Systems Engineer with interest in RISC-V, FPGA, and hardware-software co-design, driven to solve real-world challenges through innovative embedded solutions. My experience spans industrial applications at Infineon, academic research at Uni Siegen, and hands-on PCB/sensor integration—always with a focus on efficiency, reliability, and cutting-edge technology.<br><br>Beyond engineering, I enjoy learning German (currently B1), playing chess, and hiking—balancing technical rigor with creative problem-solving and outdoor exploration.<br><br>Let’s connect if you’re interested in collaborating on embedded systems, machine learning for sensor data, or open-source hardware projects!</p>
+<p align="left">Hi, I'm Hrishikesh!<br><br>I'm a passionate Embedded Systems Engineer with expertise in RISC-V, FPGA, and hardware-software co-design, driven to solve real-world challenges through innovative embedded solutions. My experience spans industrial applications at Infineon, academic research at Uni Siegen, and hands-on PCB/sensor integration—always with a focus on efficiency, reliability, and cutting-edge technology.<br><br>Beyond engineering, I enjoy learning German (currently B1), playing chess, and hiking—balancing technical rigor with creative problem-solving and outdoor exploration.<br><br>Let’s connect if you’re interested in collaborating on embedded systems, machine learning for sensor data, or open-source hardware projects!</p>
 
 ###
 
-<p align="center">Connect With Me!</p>
+<h1 align="center">Connect With Me!</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/hrishikeshkarande/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="hrishikeshkarande1997@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   <a href="https://www.instagram.com/the.ideal.karande/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -33,11 +34,11 @@
 
 ###
 
-<p align="center">My Tech Stack!</p>
+<h1 align="center">My Tech Stack!</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
